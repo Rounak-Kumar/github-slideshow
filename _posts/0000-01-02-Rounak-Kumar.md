@@ -11,3 +11,9 @@ Use the left arrow to go back!
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+## Trial image
+![trail image](/images/download.png)
+
+### Github image
+![GitHub Logo](/images/logo.png)

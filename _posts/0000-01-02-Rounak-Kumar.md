@@ -3,6 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 # <h1> This is an tag
-This is an tag
-###### This is h6 tag
+## This is an tag
+###### This is <h1> tag
 Use the left arrow to go back!
